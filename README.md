@@ -48,4 +48,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ![image](https://github.com/user-attachments/assets/39ad9f81-46db-4461-9708-1bda291f2036)
 -Install Active Directory
-
+![image](https://github.com/user-attachments/assets/8079e3e5-8c9f-4034-b83a-ee7905c45791)
+-Add a new forest
+-Restart and log back into domain controller as mydomain.com\username
+![image](https://github.com/user-attachments/assets/f4b8a522-54ae-4582-8506-0e127151bd2e)
