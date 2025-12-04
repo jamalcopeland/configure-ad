@@ -22,8 +22,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Setup AD Infrastructure in Azure
 - Setup Active Directory
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -48,3 +46,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 -Add a new forest
 -Restart and log back into domain controller as mydomain.com\username
 ![image](https://github.com/user-attachments/assets/f4b8a522-54ae-4582-8506-0e127151bd2e)
+
+<h2>Project Summary</h2>
+This lab demonstrates deploying an on-premises style Active Directory environment inside Azure. After setting up the virtual network, configuring DNS, and promoting the Windows Server 2022 VM to a domain controller, the environment was validated by confirming domain functionality and successful communication between the server and client machines. The project provided hands-on experience with AD DS installation, Azure networking, DNS dependencies, and basic identity management concepts.
+
